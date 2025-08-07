@@ -100,7 +100,7 @@ export default function Contact() {
           >
             Entre em{' '}
             <span className="text-gradient">Contato</span>
-          </h2>
+          </motion.h2>
           
           <motion.p
             initial={{ opacity: 0, y: 30 }}
